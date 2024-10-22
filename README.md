@@ -45,7 +45,7 @@
 
     Run the FastAPI server:
 
-        uvicorn chatbotapi:app --host 0.0.0.0 --port 3000
+        uvicorn chatbotapi:app --host 0.0.0.0 --port 8000
     
         npm start to start the web interface (Chatbot.js) to integrate with the front-end or run the HTML page to interact with the chatbot.
 
