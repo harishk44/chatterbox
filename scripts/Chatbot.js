@@ -16,7 +16,7 @@ const Chatbot = () => {
     // Store the question to later add it to the history
     const question = input;
     // adding some comment
-
+    // adding comment 2
     try {
       const res = await fetch('http://localhost:8000/get_response/', {
         method: 'POST',

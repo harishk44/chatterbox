@@ -3,7 +3,7 @@
       This project is an NLP assignment focusing on the design of an advanced generative chatbot using the GPT-2 model. 
       The goal of this project is to create a chatbot that can carry out multi-turn conversations, adapt to context, and handle a variety of topics
 
-**Project Structure**
+**Project Structure2**
 
       The repository contains the following key files:
       
